@@ -9,3 +9,5 @@ To activate:
 - Change the focus to scc_widget_Case_Assignment
 - Paste the code into the console and run
 - Check the box that has been added to the bottom-left of the case assignment window
+
+NOTE: This was designed exclusively for a specific sonfiguration of Salesforce, and will likely not work with other configurations.
